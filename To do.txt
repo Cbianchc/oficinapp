@@ -1,0 +1,20 @@
+Cosas para hacer en el futuro...
+
+- Mejorar interfaz de radios
+- Se podria hacer una objeto de las radios para leerlas localmente
+----
+- Contador, hay que arreflar las tarjetas de historia, que se abran y cierren bien y a pedido
+- Las card de historial estan corridas en movil, estan feas.
+- Boton cerrar el dia? cual es su funcion? un basta por hoy?... te saca de la app y envia el numero final?
+----
+- Claves es una maqueta, es solo para la vista, agregar bcrypt y todo
+- tambien el boton para agregar, deberiasacar un modal para cargar en la base una nueva clave.
+----
+- Nabvar, es fea, se puede hacer solo con iconos, el hola puede estar solo en home
+- Radios puede vivir en home si esta activo? o mejor abajo de todo?
+---
+Cumples, falta hacer que la lista la pueda ver solo Admin, eso es importante.
+Cumples - al crear un evento, puede ser para todos o para un grupo... se puede elegir de la lista los users para que se los muestre.
+---
+- Mejoras en genral de UI/UX, el fondo se corta
+- Como poner modo claro y oscuro? puede estar a mano en navbar? o puede estar en perfil?
